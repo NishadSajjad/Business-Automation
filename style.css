@@ -1,0 +1,70 @@
+* body {
+    font-family: Arial, sans-serif;
+}
+
+.theme-color {
+    color: #00bfa6;
+}
+
+.border-colour{
+    border-color:2px solid  #00bfa6;
+}
+
+.navbar-brand{
+    background-color: white;
+    
+}
+
+.navbar {
+    background-color: #5395c2;
+}
+
+.navbar-nav .nav-link {
+    color: #fff !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ddd !important;
+}
+
+.hero-section {
+    padding: 50px 0;
+}
+
+.hero-section h1 {
+    color: #00bfa6;
+}
+
+.appointment-form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.image-block {
+    margin-top: 200px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 310px;
+    height: auto;
+}
+.form-control  {
+    border: 2px solid;
+    border-color: rgb(170, 181, 192);
+    background-color: rgba(195, 199, 202, 0.136);
+}
+
+.home{
+    margin-left: 22px;
+}
+
+.logo{
+    width: 62px;
+    height: 50px;
+}
+
+.btncol:hover{
+    background-color: #055485;
+}
